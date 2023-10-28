@@ -1,4 +1,4 @@
-## Fernando Lucas - Dev FullStack
+## Fernando Lucas - Eng. FullStack
 
 - 💻 Today I work as a FullStack developer
 - 🌱 Studing AWS and DevOps
