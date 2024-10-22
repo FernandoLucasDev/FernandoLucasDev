@@ -1,8 +1,8 @@
 ## Fernando Lucas - Eng. FullStack
 
-- 💻 Today I work as a FullStack developer
-- 🌱 Studing AWS, DevOps and Generative IA
-- 🏫 Technical in System Development
+- 💻 Today I work as a Full-Stack Software Engineer
+- 🌱 Studing Generative IA
+- 🏫 Technical in System Analysis and Development
 - 📩 Contact: fernandolucasdev@gmail.com
 
 ### Technologies I work today:
