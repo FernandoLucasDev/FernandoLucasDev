@@ -1,33 +1,57 @@
-## Fernando Lucas - Eng. FullStack
+## 👋 Hi, I'm Fernando Lucas
 
-- 💻 Today I work as a Full-Stack Software Engineer
-- 🌱 Studing Generative IA
-- 🏫 Technical in System Analysis and Development
-- 📩 Contact: fernandolucasdev@gmail.com
+### 💻 Full-Stack Software Engineer | Flutter Enthusiast | Clean Code Advocate
 
-### Technologies I work today:
-<div style="display: inline-block">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-</div><br>
+I’m a Full-Stack Developer passionate about building scalable, secure, and high-quality systems.
+I strive for clean architecture, sustainable code, and meaningful user experiences — especially when it comes to mobile apps.
 
-### Social Midia:
+---
 
-<div>
-  <a src="https://github.com/FernandoLucasDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a src="https://www.linkedin.com/in/fernando-lucas-1a9b73202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a src="https://dev.to/fernandolucasdev" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
-</div><br><br>
+### 🚀 Side project of the moment
 
-![InfinateForeverGIF](https://github.com/FernandoLucasDev/FernandoLucasDev/assets/103616122/64ec5b74-b1b5-4e1a-a1d5-749369e8ebb7)
+- [**Quotation App**](https://github.com/FernandoLucasDev/quotation_app)  
+  A financial mobile app that combines currency conversion, historical charts, and a news feed.  
+  Built with Flutter and integrated with Go (Echo).
 
+---
+
+### 🔧 Main Tech Stack
+
+#### 🖥 Backend
+- **PHP (Laravel)** 
+- **Python (Django, Flask)**
+- **Node.js (Express, NestJS)**
+- **Java (Spring Boot)**
+- **Go (Echo)**
+
+#### 🎨 Frontend
+- **JavaScript (React, Vue.js, Next.js)**
+- **TypeScript**
+
+#### 📱 Mobile
+- **Flutter (Dart)**
+- **Cordova & Ionic**
+- **Android (Java, Kotlin)**
+
+#### ☁ DevOps & Cloud
+- **AWS (EC2, S3, Lambda)**
+- **Docker & Kubernetes**
+- **Linux (Bash)**
+
+#### 🗄 Databases
+- **PostgreSQL / MySQL**
+- **MongoDB / Firebase**
+  
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-lucas-1a9b73202/)  
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fernandolucasdev)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FernandoLucasDev)
+
+📩 **fernandolucasdev@gmail.com**
+
+---
+
+![InfiniteForeverGIF](https://github.com/FernandoLucasDev/FernandoLucasDev/assets/103616122/64ec5b74-b1b5-4e1a-a1d5-749369e8ebb7)
